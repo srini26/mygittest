@@ -1,2 +1,3 @@
 repository: top.secret.repo
 url: https://test.%DNINT%
+service: https://%CID%.service.%DNINT%
